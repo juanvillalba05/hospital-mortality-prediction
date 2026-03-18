@@ -57,7 +57,7 @@ indicating the model generalizes well to unseen patients.
 
 ## How to run
 ```bash
-git clone https://github.com/tu-usuario/hospital-mortality-prediction
+git clone https://github.com/juanvillalba05/hospital-mortality-prediction
 cd hospital-mortality-prediction
 pip install -r requirements.txt
 jupyter notebook hospital-mortality-prediction.ipynb
